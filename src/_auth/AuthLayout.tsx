@@ -7,7 +7,7 @@ const AuthLayout = () => {
             {isAuthenticated ? (<Navigate to="/" />) : (
                 <>
                     <img
-                        src="/assets/images/mabel_and_dipper_gravity_falls_fanart_by_kittypaw_draws_dge61yz-fullview.png"
+                        src="/assets/images/side-img.png"
                         alt="logo"
                         className="hidden xl:block h-screen w-1/2 object-cover bg-no-repeat"
 
